@@ -1,12 +1,14 @@
 <div>
- 
-## 👋 Hello! Welcome to my Github profile. My name is Dyanna.
- 
-   <a href="https://github.com/dyannacruz">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyannacruz&layout=compact&langs_count=7&theme=dracula"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dyannacruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
+ ## 👋 Hello! Welcome to my Github profile. My name is Dyanna.
+</div>
+ 
+ 
+<div>
+   <a href="https://github.com/dyannacruz">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyannacruz&layout=compact&langs_count=7&theme=panda"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dyannacruz&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+</div>
  
 <div>
    <a href = "mailto:dyannacruz23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -27,6 +29,6 @@
 
  
 <div>
-
+ 
    ![Snake animation](https://github.com/dyannacruz/dyannacruz/blob/output/github-contribution-grid-snake.svg)
 </div>
