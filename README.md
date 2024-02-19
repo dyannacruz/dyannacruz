@@ -21,14 +21,6 @@
 
 <div>
 
-###  Frameworks, Libraries & Packages:
-   
-   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width="100" height="30"/>
-   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width="100" height="30"/>
-   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="100" height="30"/>
-
-<div>
-
 ### Programming Languages:
    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="40"/>
