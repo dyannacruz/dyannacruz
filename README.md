@@ -9,36 +9,3 @@
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyannacruz&layout=compact&langs_count=7&theme=panda"/>
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dyannacruz&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
 </div>
-
- 
-<div>
-
-<div>
-
-### Programming Languages:
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="100" height="30"/>
-   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" width="100" height="30"/>
-
-
-   <div>
-
-   ### Cloud:
-
-   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" width="100" height="30"/>
-   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" width="100" height="30"/>
-
-   <div>
-
-   ### Database:
-
-   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" width="100" height="30"/>
-   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="120" height="30"/>
-   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" width="100" height="30"/>
-   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="30"/>
-   <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" width="100" height="30"/>
-   
-  
-  </div>
