@@ -1,16 +1,27 @@
-<h1 align="center">👋 Hello! Welcome to my GitHub profile</h1>
+# Hi, I’m Dyanna 👋
 
-<p align="center">I'm Dyanna, a passionate Data Scientist from Brazil currently living in Sweden
+I’m an **IT professional focused on Python**, currently looking for my **first opportunity in backend development**.
 
+I have hands-on experience building **Python scripts**, integrating **APIs**, working with **SQL databases**, and automating processes**. I enjoy writing clean code, understanding systems end to end.
 
-## 📌 About Me
+---
 
-- 🌱 Learning **Swedish (SFINX)** 
-- 💡 Always open to new ideas for data projects and collaborations
-- 🧩 Background in **Civil Engineering** and **Data Science**
+## What I work with
+- Python
+- REST APIs
+- Web scraping
+- SQL
+- Automation
+- Git & GitHub
 
+---
 
-## 🤝 Let’s Connect
+## Currently learning
+- Backend fundamentals
+- Building backend projects
 
-If you have an interesting project or idea — or just want to talk about data, technology or Sweden — feel free to reach out!
+---
+
+✔️ Authorized to work in Sweden
+
 
