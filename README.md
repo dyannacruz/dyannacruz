@@ -7,32 +7,8 @@ I'm a Data Analyst with a background in Civil Engineering and Data Science, curr
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,git,github,gcp,azure,js,vscode,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,r,js,html" />
 </p>
-
-**Also working with**
-
-SQL • Power BI • BigQuery • ETL • APIs • GIS • AutoCad
-
----
-
-## Currently learning
-
-🗺️ GIS & Spatial Analysis
-
-🚆 Transport Systems
-
-🌍 Network Analysis
-
-📡 Geospatial Data Engineering
-
----
-
-## 🌍 Languages
-
-* 🇧🇷 Portuguese — Native
-* 🇬🇧 English — Fluent
-* 🇸🇪 Swedish — Intermediate
 
 ---
 
