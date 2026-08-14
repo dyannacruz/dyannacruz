@@ -10,9 +10,5 @@ I'm a Data Analyst with a background in Civil Engineering and Data Science, curr
   <img src="https://skillicons.dev/icons?i=python,r,js,html" />
 </p>
 
----
-
-*"Using data and geospatial technologies to build smarter and more sustainable transportation systems."*
-
 
 
